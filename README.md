@@ -24,7 +24,5 @@ A Python-based virtual inventory management system with a graphical user interfa
    python3 inventory.py
 
 ## Screenshots:
-- Empty inventory view:
 <img width="470" alt="Screenshot 2024-10-15 at 10 46 30 PM" src="https://github.com/user-attachments/assets/ad8bd09c-1b8d-4278-996a-0b7b774e0ecd">
-- Partially filled inventory view:
 <img width="470" alt="Screenshot 2024-10-15 at 10 47 31 PM" src="https://github.com/user-attachments/assets/bc7290b9-5882-4ace-8848-0c2a1a9a5fe3">
