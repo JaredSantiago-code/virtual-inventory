@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 # Virtual Inventory Management System with Tkinter GUI
 
-# Initial Inventory (for demo purposes)
+# Initial Inventory
 inventory = []
 
 # Function to display all items in the inventory
